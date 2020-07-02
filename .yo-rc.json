@@ -1,0 +1,9 @@
+{
+  "generator-nextjs-typescript-antd": {
+    "promptValues": {
+      "displayName": "app1",
+      "fullname": "cleber",
+      "email": ""
+    }
+  }
+}
